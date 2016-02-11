@@ -2,6 +2,6 @@
 testing vpn script
 
 
-wget github.com/JAGGER4WORK/testvpn/ --no-check-certificate -O openvpn-install.sh && bash openvpn-install.sh
+wget https://raw.githubusercontent.com/JAGGER4WORK/testvpn/master/openvpn-install.sh --no-check-certificate -O openvpn-install.sh && bash openvpn-install.sh
 
 Проверка рид ми
